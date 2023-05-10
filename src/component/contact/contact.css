@@ -1,0 +1,43 @@
+.contact-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .contact-page__form {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .contact-page__form h1 {
+    margin-top: 0;
+  }
+  
+  .contact-page__form .form-control {
+    height: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-page__form button {
+    margin-top: 20px;
+  }
+  
+  .contact-page__info {
+    flex: 1;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .contact-page__info h2 {
+    margin-top: 0;
+  }
+  
+  .contact-page__info p {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  

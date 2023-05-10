@@ -1,0 +1,15 @@
+.box{
+   
+    transition: all 0.4s ease-in-out;
+    border-radius:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box:hover{
+    transform: scale(1.1);
+}
+:root{
+    --bg-color:#1f242d;
+    --second-bg-color:#323946;
+    --text-color:#ffff;
+    --main-color:#0ef;
+}

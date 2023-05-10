@@ -1,0 +1,45 @@
+/* .techhead
+{
+text-align: center;
+} */
+
+/* button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  .on {
+    color: #000;
+  }
+  .off {
+    color: #ccc;
+  }
+  
+  body {
+    padding: 100px;
+  } */
+  .skill-bar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .skill {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .bar-container {
+    height: 10px;
+    background-color: #e0e0de;
+    border-radius: 5px;
+  }
+  
+  .bar {
+    height: 100%;
+    background-color: #6f42c1;
+    border-radius: 5px;
+  }
+  

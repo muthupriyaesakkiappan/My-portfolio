@@ -1,0 +1,28 @@
+.icon1
+{
+   height:36px;
+   
+   border-radius:60px;
+   font-size:5px;
+   margin:1.5px;
+   transition:0.5s;
+   color:rgb(17, 25, 30);
+   
+
+}
+:root{
+    --bg-color:#1f242d;
+    --second-bg-color:#323946;
+    --text-color:#ffff;
+    --main-color:#0ef;
+}
+.icon1:hover{
+    background-color:rgb(222, 222, 236);
+    color: #eaedf1;
+}
+.but{
+border-radius: 30px;
+margin-top: 20px;
+margin-left:40px;
+}
+

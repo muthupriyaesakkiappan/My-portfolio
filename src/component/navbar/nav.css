@@ -1,0 +1,25 @@
+.data1 a.active::before{
+    content:'';
+    position: absolute;
+    left:0;
+    width:100%;
+    height:.2rem;
+    background : var(white-color); 
+    border:-6px;
+}
+:root{
+    --bg-color:#1f242d;
+    --second-bg-color:#323946;
+    --text-color:#ffff;
+    --main-color:#0ef;
+}
+
+
+.data a:hover{
+    color:var (--text-color);
+    border-bottom: 1px solid white;
+    transition: 2s;
+}
+.bgbody{
+    color:var(--bg-color);
+}
